@@ -1,0 +1,17 @@
+.body{
+    background-color: #538db0;
+}
+.div_login
+{
+    border:1px solid #cfcfcf;
+    -webkit-border-radius:25px 0px 25px 0px;
+    -moz-border-radius:25px 0px 25px 0px;
+    border-radius:25px 0px 25px 0px;
+    padding: 40px 30px;
+    background-color: #ffffff;
+    margin-top: 40px;
+}
+.mt-15
+{
+    margin-top: 15px;
+}

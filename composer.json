@@ -1,0 +1,13 @@
+{
+    "name": "teknoto/login",
+    "description": "this is my login package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Teknoto\\Login\\": "/src"
+        }
+    },
+    "require": {}
+
+}
